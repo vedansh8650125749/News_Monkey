@@ -1,3 +1,11 @@
+# Screenshot
+![Screenshot (120)](https://github.com/vedansh8650125749/News_Monkey/assets/91623957/01088675-845a-4bc7-a1c1-ebb9e3c167c2)
+![Screenshot (121)](https://github.com/vedansh8650125749/News_Monkey/assets/91623957/b93b60e2-e947-4d0e-a53f-6f5a01072b8d)
+![Screenshot (122)](https://github.com/vedansh8650125749/News_Monkey/assets/91623957/2e1dc2af-04d2-467a-9ff5-f75ff1c4a550)
+![Screenshot (123)](https://github.com/vedansh8650125749/News_Monkey/assets/91623957/2f436d9d-797e-40de-ac14-8356c0c72332)
+![Screenshot (124)](https://github.com/vedansh8650125749/News_Monkey/assets/91623957/469f0da7-b4f0-4234-8885-308bc465f865)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
