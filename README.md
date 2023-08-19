@@ -1,8 +1,8 @@
 # Screenshot
-![Screenshot (120)](https://github.com/vedansh8650125749/News_Monkey/assets/91623957/942004d9-e85a-4c5f-b8ad-c9872af96da8)
-![Screenshot (121)](https://github.com/vedansh8650125749/News_Monkey/assets/91623957/3548f6ac-2765-4c4e-90a5-99b50a9008dd)
-![Screenshot (122)](https://github.com/vedansh8650125749/News_Monkey/assets/91623957/c1011ee2-8adb-4a94-8dd0-58e429ac4598)
-![Screenshot (123)](https://github.com/vedansh8650125749/News_Monkey/assets/91623957/cc211ec2-6951-4b61-b5a8-5802998fd21a)
+![Screenshot (120)](https://github.com/vedansh8650125749/News_Monkey/assets/91623957/01088675-845a-4bc7-a1c1-ebb9e3c167c2)
+![Screenshot (121)](https://github.com/vedansh8650125749/News_Monkey/assets/91623957/b93b60e2-e947-4d0e-a53f-6f5a01072b8d)
+![Screenshot (122)](https://github.com/vedansh8650125749/News_Monkey/assets/91623957/2e1dc2af-04d2-467a-9ff5-f75ff1c4a550)
+![Screenshot (123)](https://github.com/vedansh8650125749/News_Monkey/assets/91623957/2f436d9d-797e-40de-ac14-8356c0c72332)
 ![Screenshot (124)](https://github.com/vedansh8650125749/News_Monkey/assets/91623957/469f0da7-b4f0-4234-8885-308bc465f865)
 
 
