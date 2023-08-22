@@ -15,12 +15,12 @@ const News = (props)=>{
     const capitilizeFirstString = (string) => {
         return string.charAt(0).toUpperCase() + string.slice(1)
     }
-    document.title = `${capitilizeFirstString(props.category)} - News Monkey`
+    
 
 
 
     const updateNews = async ()=> {
-        props.setProgress(10);
+        props.setProgress(30);
         const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${encodeURIComponent(props.newsApi)}&page=1&pageSize=${props.pageSize}`;
         setLoading(true)
         let data = await fetch(url);
@@ -34,7 +34,9 @@ const News = (props)=>{
     }
     
     useEffect(()=>{
+        document.title = `${capitilizeFirstString(props.category)} - News Monkey`
         updateNews()
+        // eslint-disable-next-line
     }, [])
 
     // handleNextClick = async () => {
@@ -74,7 +76,7 @@ const News = (props)=>{
         setArticles(articles.concat(parsedData.articles))
         setTotalResults(parsedData.totalResults)
         setLoading(false)
-    };
+    }
         return (
             <>
                 <div className='container my-3'>
