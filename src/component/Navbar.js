@@ -1,5 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Link, useLocation } from 'react-router-dom';
+// import Zebra from './Zebra';
+import WhiteZebra from '../image/whitezebra.png'
 
 const Navbar = (props) => {
     const [isNavbarFixed, setIsNavbarFixed] = useState(false);
@@ -28,7 +30,7 @@ const Navbar = (props) => {
     return (
         <nav className={`navbar navbar-expand-lg ${isNavbarFixed ? 'fixed-top' : ''} bg-dark navbar-dark`}>
             <div className="container-fluid">
-                <Link className="navbar-brand" to="/">News Monkey</Link>
+                <Link className="navbar-brand" to="/">News &nbsp;<img src={WhiteZebra} alt='Zebra' height={40} width={40}/> </Link>
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span className="navbar-toggler-icon"></span>
                 </button>

@@ -23,6 +23,12 @@ code {
   object-fit: cover;
   background-size: auto;
 }
+.zebra-image{
+  width: auto;
+  height: 10px;
+  object-fit: cover;
+  background-size: auto;
+}
 
 .form-switch .form-check-input {
   --bs-form-switch-bg: url(https://www.svgrepo.com/show/46134/sun.svg);
